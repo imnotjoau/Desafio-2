@@ -1,0 +1,13 @@
+#vetor{
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    border: solid black; 2px;
+
+}
+
+body{
+    background-image: url(infe.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
